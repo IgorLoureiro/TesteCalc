@@ -1,0 +1,7 @@
+C:\Users\Pichau\Desktop\Programação\Dio\Calculadorinha Simples\Calculadorinha Simples\bin\Debug\Calculadorinha Simples.exe.config
+C:\Users\Pichau\Desktop\Programação\Dio\Calculadorinha Simples\Calculadorinha Simples\bin\Debug\Calculadorinha Simples.exe
+C:\Users\Pichau\Desktop\Programação\Dio\Calculadorinha Simples\Calculadorinha Simples\bin\Debug\Calculadorinha Simples.pdb
+C:\Users\Pichau\Desktop\Programação\Dio\Calculadorinha Simples\Calculadorinha Simples\obj\Debug\Calculadorinha Simples.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Programação\Dio\Calculadorinha Simples\Calculadorinha Simples\obj\Debug\Calculadorinha Simples.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Programação\Dio\Calculadorinha Simples\Calculadorinha Simples\obj\Debug\Calculadorinha Simples.exe
+C:\Users\Pichau\Desktop\Programação\Dio\Calculadorinha Simples\Calculadorinha Simples\obj\Debug\Calculadorinha Simples.pdb
